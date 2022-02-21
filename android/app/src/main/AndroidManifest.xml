@@ -10,6 +10,8 @@
    <application
         android:label="escaner_sql"
         android:icon="@mipmap/ic_launcher">
+        <meta-data android:name="com.google.android.geo.API_KEY"
+          android:value="AIzaSyCqGaXw7-kPluQ-JQbZo8RlFsYrYcH4Ky8">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
